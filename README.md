@@ -6,7 +6,7 @@ The purpose of this repository is to showcase my programming using the framework
 
 ## What is Project Euler?
 
-According to ProjectEuler.net:
+According to [Project Euler](https://projecteuler.net/):
 
 >Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 >
@@ -26,3 +26,7 @@ In addition to showcasing programming skills, I also believe this project is a g
 - Visual Basic
 
 Additional languages may be added in the future.
+
+## Why compile with OnlineGDB?
+
+For ease of repeatability, I used [OnlineGDB](https://www.onlinegdb.com/) to compile all of the code. This way anyone can test the code without requiring an IDE. To test a program, just select the appropriate language in the top right dropdown and paste the code into the editor window.
